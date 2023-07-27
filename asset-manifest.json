@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mohamed0690/Eat-Yum/static/css/main.0c389689.css",
+    "main.js": "/mohamed0690/Eat-Yum/static/js/main.dc9a4bc0.js",
+    "index.html": "/mohamed0690/Eat-Yum/index.html",
+    "main.0c389689.css.map": "/mohamed0690/Eat-Yum/static/css/main.0c389689.css.map",
+    "main.dc9a4bc0.js.map": "/mohamed0690/Eat-Yum/static/js/main.dc9a4bc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c389689.css",
+    "static/js/main.dc9a4bc0.js"
+  ]
+}
