@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mohamed0690/Eat-Yum/static/css/main.0c389689.css",
-    "main.js": "/mohamed0690/Eat-Yum/static/js/main.a38913cc.js",
+    "main.js": "/mohamed0690/Eat-Yum/static/js/main.8c31288f.js",
     "index.html": "/mohamed0690/Eat-Yum/index.html",
     "main.0c389689.css.map": "/mohamed0690/Eat-Yum/static/css/main.0c389689.css.map",
-    "main.a38913cc.js.map": "/mohamed0690/Eat-Yum/static/js/main.a38913cc.js.map"
+    "main.8c31288f.js.map": "/mohamed0690/Eat-Yum/static/js/main.8c31288f.js.map"
   },
   "entrypoints": [
     "static/css/main.0c389689.css",
-    "static/js/main.a38913cc.js"
+    "static/js/main.8c31288f.js"
   ]
 }
