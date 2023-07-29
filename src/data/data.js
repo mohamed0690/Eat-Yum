@@ -102,7 +102,7 @@ export const mealData = [
     price: '$140',
   },
   {
-    id: 8,
+    id: 9,
     name: 'African Salad',
     category: 'salad',
     image:
@@ -110,7 +110,7 @@ export const mealData = [
     price: '$140',
   },
   {
-    id: 9,
+    id: 10,
     name: 'Kale Salad',
     category: 'salad',
     image:
@@ -118,7 +118,7 @@ export const mealData = [
     price: '$300',
   },
   {
-    id: 10,
+    id: 11,
     name: 'Ceasar Salad',
     category: 'salad',
     image:
@@ -126,7 +126,7 @@ export const mealData = [
     price: '$300',
   },
   {
-    id: 11,
+    id: 12,
     name: 'Loaded Salad',
     category: 'salad',
     image:
@@ -134,7 +134,7 @@ export const mealData = [
     price: '$200',
   },
   {
-    id: 12,
+    id: 13,
     name: 'chiken shawarma',
     category: 'chicken',
     image:
@@ -142,7 +142,7 @@ export const mealData = [
     price: '$100',
   },
   {
-    id: 13,
+    id: 14,
     name: 'Wings',
     category: 'chicken',
     image:
@@ -150,7 +150,7 @@ export const mealData = [
     price: '$100',
   },
   {
-    id: 14,
+    id: 15,
     name: 'Roasted Chicken',
     category: 'chicken',
     image:
@@ -158,7 +158,7 @@ export const mealData = [
     price: '$300',
   },
   {
-    id: 15,
+    id: 16,
     name: 'Chicken Tenders',
     category: 'chicken',
     image:

@@ -7,7 +7,7 @@ const Meal = () => {
   const filterCategory = (cat) => {
     setFoods(
       mealData.filter((item) => {
-        return item.category == cat;
+        return item.category === cat;
       })
     );
   };
