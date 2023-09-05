@@ -2,6 +2,10 @@
 
 Welcome to the Yum Eat React Website repository! This project was developed using React, Tailwind CSS, React Splide, and React Icons. Below, you'll find all the information you need to get started, explore the project, and contribute.
 
+<img src="https://res.cloudinary.com/dcqttctnu/image/upload/v1693938551/ezgif-3-8167a0b907_jqlfsx.gif" alt="Search TextInput" width="100%" height="" /> 
+
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
