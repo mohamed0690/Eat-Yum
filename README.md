@@ -41,10 +41,10 @@ To run this project locally, follow these steps:
    ```bash
    cd yum-eat-react-website
       ```
- ```bash
+    ```bash
    npm install
-       ```
- ```bash
+      ```
+    ```bash
    npm start
       ```
 The Yum Eat React Website should now be running locally on your machine. Open your web browser and access it at http://localhost:3000.
