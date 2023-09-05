@@ -52,3 +52,12 @@ To run this project locally, follow these steps:
    npm start
       ```
 The Yum Eat React Website should now be running locally on your machine. Open your web browser and access it at http://localhost:3000.
+
+### Author
+
+[Mohamed Mahrous](https://github.com/mohamed0690)
+
+### License
+
+This project is licensed under the MIT License
+
