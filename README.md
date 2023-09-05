@@ -14,7 +14,7 @@ Welcome to the Yum Eat React Website repository! This project was developed usin
 
 Excited to share my latest project: Yum Eat React Website! This website offers a delightful experience for users to explore mouth-watering content with an interactive UI, seamless transitions, and stunning icons. Whether you're a food lover or a design enthusiast, you're in for a treat.
 
-## 2. Project Link 👉 [Yum Eat React Website](https://lnkd.in/dxZnsS3H)
+## 2. Project Link 👉 [Yum Eat React Website](https://mohamed0690.github.io/Eat-Yum/)
 
 You can access the live version of the Yum Eat React Website by following this link. Feel free to explore and enjoy the features it offers.
 
@@ -24,7 +24,7 @@ You can access the live version of the Yum Eat React Website by following this l
 The website provides an interactive user interface that makes it easy for users to navigate and explore the delicious content it offers.
 
 ### Seamless Transitions
-Thanks to React Splide, the image carousel adds a touch of elegance to the browsing experience, ensuring smooth and captivating transitions.
+React Splide, the image carousel adds a touch of elegance to the browsing experience, ensuring smooth and captivating transitions.
 
 ### Stunning Icons
 Leveraging React Icons, the website is enriched with a delightful collection of icons, enhancing its visual appeal and user engagement.
